@@ -1,6 +1,5 @@
 /**
  * Name: Jamie Clements
- * RedID: 131174989
  *
  * tree.c
  *
