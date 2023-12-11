@@ -1,5 +1,4 @@
 # Name: Jamie Clements
-# RedID: 131174989
 # Makefile for the countsubstrings program
 
 # C compiler
